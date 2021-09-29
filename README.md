@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senal Ransara Walpola</h1>
-<h3 align="center">A passionate Full Stack Developer.IT Undergrad @SLIIT</h3>
+<h3 align="center">A passionate Full Stack Developer.IT Undergrad @SLIIT</h3><p align="right"><img src="https://komarev.com/ghpvc/?username=SenalRansara" alt="kaveenLK"/></p>
 
 - 👀 I’m interested in Software and web Development
 
