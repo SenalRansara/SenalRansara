@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @SenalRansara
-- 👀 I’m interested in Software and web Development
-- 🌱 I’m currently learning Python,Angular,Spring,Vue
-- 💞️ I’m looking to collaborate on any project that give me an Valuable Experince to my Career
-- 📫 How to reach me Linkedin⚡ www.linkedin.com/in/senalransara ⚡ Email me senal.ransara38@gmail.com
-
 <h1 align="center">Hi 👋, I'm Senal Ransara Walpola</h1>
 <h3 align="center">A passionate Full Stack Developer.IT Undergrad @SLIIT</h3>
 
