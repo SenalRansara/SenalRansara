@@ -3,9 +3,9 @@
 
 - 👀 I’m interested in Software and Web Development
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and  Machine Learning **
 
-- 👯 I’m looking to collaborate on **Mern Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **Senal.ransara38@gmail.com**
 
