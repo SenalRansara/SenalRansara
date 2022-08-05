@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Software and Web Development
 
-- 🌱 I’m currently learning **Python,Flutter**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Mern Projects**
 
