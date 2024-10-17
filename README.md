@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Software and Web Development
 
-- 🌱 I’m currently learning **Python and  Machine Learning **
+- 🌱 I’m currently learning **Python and  Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
