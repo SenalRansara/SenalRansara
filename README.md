@@ -3,9 +3,9 @@
 
 - 👀 I’m interested in Software and Web Development
 
-- 🌱 I’m currently learning **Python and  Machine Learning**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **AI/ML Development Projects**
 
 - 📫 How to reach me **senal.walpola@gmail.com**
 
